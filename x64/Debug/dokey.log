@@ -1,0 +1,4 @@
+﻿  dokey.cpp
+D:\Torrens\Introduction of software Engineering\week 6\ISE102_Assessment2_Bogati_Ashutosh\dokey.cpp(204,15): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+D:\Torrens\Introduction of software Engineering\week 6\ISE102_Assessment2_Bogati_Ashutosh\dokey.cpp(175): warning C4715: 'checkForWins': not all control paths return a value
+  dokey.vcxproj -> D:\Torrens\Introduction of software Engineering\week 6\ISE102_Assessment2_Bogati_Ashutosh\x64\Debug\dokey.exe
